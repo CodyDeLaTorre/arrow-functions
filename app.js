@@ -199,4 +199,4 @@ joe.scopeArrow();
 // 2. What is "this" when joe.scopeArrow() is invoked? I think this becomes the whole document we are working in
 //
 // 3. Explain why "this" is different when an arrow function is used. Arrow functions are not meant to be used with constructors
-//
+// Done
